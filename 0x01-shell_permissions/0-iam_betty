@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown lawler betty
+su - betty
