@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "Alea iacta est (" iacta
+head --line=3 iacta | tail --line=1
